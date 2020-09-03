@@ -1,8 +1,7 @@
 # jsend
 
 [![Build Status](https://travis-ci.org/jsvensson/jsend.svg?branch=master)](https://travis-ci.org/jsvensson/jsend)
-[![GoDoc](https://godoc.org/github.com/jsvensson/jsend?status.svg)](http://godoc.org/github.com/jsvensson/jsend)
-
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/jsvensson/jsend)](https://pkg.go.dev/github.com/jsvensson/jsend)
 
 Golang **JSend** library
 
@@ -18,11 +17,11 @@ $ go get github.com/jsvensson/jsend
 import "github.com/jsvensson/jsend"
 ```
 
-See [API documentation](http://godoc.org/github.com/gamegos/jsend)
+See [API documentation](https://pkg.go.dev/github.com/jsvensson/jsend).
 
 ## Format
 
-Jsend is a very simple json format to wrap your json responses.
+JSend is a very simple json format to wrap your JSON responses.
 
 ```json
 {
@@ -34,7 +33,7 @@ Jsend is a very simple json format to wrap your json responses.
 }
 ```
 
-See [JSend specification](http://labs.omniti.com/labs/jsend) for details.
+See [the JSend specification](https://github.com/omniti-labs/jsend) for details.
 
 
 ## License

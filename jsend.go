@@ -1,5 +1,5 @@
 /*
-Package jsend implements JSend* specification.
+Package jsend implements JSend. See https://github.com/omniti-labs/jsend for the JSend specification.
 
 You can wrap your http.ResponseWriter:
 
@@ -51,9 +51,6 @@ Error:
 		"status": "error",
 		"message": "we are closed"
 	}
-
-
-* See http://labs.omniti.com/labs/jsend for jsend spec.
 */
 package jsend
 
