@@ -1,7 +1,7 @@
 # jsend
 
-[![Build Status](https://travis-ci.org/gamegos/jsend.svg?branch=master)](https://travis-ci.org/gamegos/jsend)
-[![GoDoc](https://godoc.org/github.com/gamegos/jsend?status.svg)](http://godoc.org/github.com/gamegos/jsend)
+[![Build Status](https://travis-ci.org/jsvensson/jsend.svg?branch=master)](https://travis-ci.org/jsvensson/jsend)
+[![GoDoc](https://godoc.org/github.com/jsvensson/jsend?status.svg)](http://godoc.org/github.com/jsvensson/jsend)
 
 
 Golang **JSend** library
@@ -9,13 +9,13 @@ Golang **JSend** library
 
 ## Installation
 ```
-$ go get github.com/gamegos/jsend
+$ go get github.com/jsvensson/jsend
 ```
 
 ## Usage
 
 ```go
-import "github.com/gamegos/jsend"
+import "github.com/jsvensson/jsend"
 ```
 
 See [API documentation](http://godoc.org/github.com/gamegos/jsend)
